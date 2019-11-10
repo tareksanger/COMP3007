@@ -1,6 +1,6 @@
 
 # CHANGE THIS VALUE TO TEST
-my_word = "robert_is_thirty_eight"                  # <--- HERE
+my_word = "tarek_is_studying_recursion"                  # <--- HERE
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 # Recursively checks a string for uppercase letters
